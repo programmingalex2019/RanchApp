@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "664119658541",
+        "firebase_url": "https://ranch-2dcc8.firebaseio.com",
+        "project_id": "ranch-2dcc8",
+        "storage_bucket": "ranch-2dcc8.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:664119658541:android:377543d7be1257be88d0a4",
+            "android_client_info": {
+                "package_name": "the.ranch.the_ranch_app"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "664119658541-cemjm79j4pqatie1kgoi3rctsdstlnrp.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "the.ranch.the_ranch_app",
+                    "certificate_hash": "9901e4218b4883723413d8818cba52e39cf9d9ab"
+                }
+            },
+            {
+                "client_id": "664119658541-ue7u7d4kbke7cq5mrua025cfj49bc9rf.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyCF58JZNdUF1vxXP1igPRB23VtrxzTrqNI"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "664119658541-ue7u7d4kbke7cq5mrua025cfj49bc9rf.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
