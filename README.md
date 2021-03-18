@@ -5,14 +5,14 @@ My Love To My Friends
 This app was made only for my beloved ranch members !
 
 - Purpose of the app:
-A Private social media - where we can share our memories using media sharing functionality and adding descriptions to the memory. 
+A Private social media - where my school friends can share our memories using media sharing functionality and adding descriptions to the memory card. 
 
 - 8 pre registered users with unique profiles.
-- Wheel-Scroll where the member has to select aspecific avatar -> and input his given password.
+- Wheel-Scroll selector where a member has to select a specific avatar -> and input his given password.
 - 8 empty profiles -> where each can edit his description: including pictures 
-(
-ability to take a picture and upload a picture from phone gallery. 
-)
+  (
+    ability to take a picture and upload a picture from phone gallery. 
+  )
 - automatic pie chart - adjustable to the grades we have received in school. 
 - Member-screen where each member can see the whole description about the other members.
 
