@@ -1,5 +1,5 @@
 # RanchApp
-My Love To My Friends
+
 
 
 This app was made only for my beloved ranch members !
